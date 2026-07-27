@@ -3,7 +3,7 @@
 
 # 📊 Customer Churn Prediction Model using XGBoost
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fizramilanol/Churn-Prediction-using-XGBoost/blob/main/churn_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fizramilanol/Churn-Prediction-using-XGBoost/blob/main/Churn_Analysis.ipynb)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org)
 [![Framework](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 
