@@ -54,7 +54,7 @@ To run this notebook seamlessly, choose one of the options below:
 3. Advanced Modeling: Training a robust baseline model, followed by fine-grained hyperparameter optimization (max_depth, learning_rate, n_estimators) via search cross-validation.
 4. Evaluation Matrix: Evaluation anchored heavily on Recall and ROC-AUC to align technical performance with real-world business objectives.
 
-##💻 Tech Stack
+## 💻 Tech Stack
 1. Core Environment: Google Colab / Jupyter Notebooks
 2. Language: Python
 3. Machine Learning & Frameworks: XGBoost, Scikit-Learn
